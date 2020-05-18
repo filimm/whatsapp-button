@@ -1,0 +1,39 @@
+img {
+	width:50px;
+}
+
+.bottom-right {
+	position: absolute;
+	right:50px;
+	bottom:50px;
+}
+
+.bottom-left {
+	position: absolute;
+	left:25px;
+	bottom:25px;
+}
+
+.top-right {
+	position: absolute;
+	right:25px;
+	top:25px;
+}
+
+.top-left {
+	position: absolute;
+	left:25px;
+	top:25px;
+}
+
+.middle-right {
+	position: absolute;
+	right:0;
+	top:50%;
+}
+
+.middle-left {
+	position: absolute;
+	left:0;
+	top:50%;
+}
